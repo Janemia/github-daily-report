@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import { GitHubData, GitHubProject, LanguageStat, CategoryStat } from '../lib/types';
+import AIProjectsSection from '../components/AIProjectsSection';
+import InsightsSection from '../components/InsightsSection';
 
 // 颜色配置 - 与现有报告保持一致
 const colors = {
@@ -120,6 +122,12 @@ export default function Home() {
         {/* 今日趋势 */}
         <TrendingGrid trending={todayTrending} />
 
+        {/* AI 项目全景分析 */}
+        <AIProjectsSection projects={data.top100} />
+
+        {/* 深度洞察 */}
+        <InsightsSection />
+
         {/* 类别分布 */}
         <CategoryDistribution categoryCount={categoryCount} total={data.top100.length} />
 
@@ -161,7 +169,7 @@ function HeroSection({ date }: { date: string }) {
         textTransform: 'uppercase',
         marginBottom: '20px'
       }}>
-        📊 每日简报
+        🔬 深度调研报告
       </div>
       <h1 style={{
         fontSize: 'clamp(28px, 5vw, 48px)',
@@ -169,7 +177,7 @@ function HeroSection({ date }: { date: string }) {
         letterSpacing: '-1px',
         marginBottom: '12px'
       }}>
-        GitHub <span style={{ color: colors.accent }}>每日热点</span> 报告
+        GitHub <span style={{ color: colors.accent }}>最火项目</span> 全景分析
       </h1>
       <p style={{
         color: colors.text2,
@@ -177,7 +185,7 @@ function HeroSection({ date }: { date: string }) {
         margin: '0 auto 28px',
         fontSize: '16px'
       }}>
-        基于实时 Star 排名与趋势数据，每日更新 GitHub 开源生态热点
+        基于实时 Star 排名与趋势数据，深度解析开源生态格局与技术趋势走向
       </p>
       <div style={{
         display: 'flex',
