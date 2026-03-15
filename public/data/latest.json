@@ -1,0 +1,877 @@
+{
+  "generatedAt": "2026-03-15T01:22:28.272Z",
+  "top100": [
+    {
+      "rank": 1,
+      "name": "build-your-own-x",
+      "owner": "codecrafters-io/build-your-own-x",
+      "stars": "474881",
+      "lang": "44534",
+      "desc": "Markdown"
+    },
+    {
+      "rank": 2,
+      "name": "awesome",
+      "owner": "sindresorhus/awesome",
+      "stars": "445297",
+      "lang": "33527",
+      "desc": "None"
+    },
+    {
+      "rank": 3,
+      "name": "freeCodeCamp",
+      "owner": "freeCodeCamp/freeCodeCamp",
+      "stars": "438092",
+      "lang": "43600",
+      "desc": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "name": "public-apis",
+      "owner": "public-apis/public-apis",
+      "stars": "409631",
+      "lang": "44253",
+      "desc": "Python"
+    },
+    {
+      "rank": 5,
+      "name": "free-programming-books",
+      "owner": "EbookFoundation/free-programming-books",
+      "stars": "383963",
+      "lang": "66011",
+      "desc": "Python"
+    },
+    {
+      "rank": 6,
+      "name": "developer-roadmap",
+      "owner": "kamranahmedse/developer-roadmap",
+      "stars": "350857",
+      "lang": "43780",
+      "desc": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "name": "system-design-primer",
+      "owner": "donnemartin/system-design-primer",
+      "stars": "338761",
+      "lang": "54874",
+      "desc": "Python"
+    },
+    {
+      "rank": 8,
+      "name": "coding-interview-university",
+      "owner": "jwasham/coding-interview-university",
+      "stars": "337794",
+      "lang": "81624",
+      "desc": "None"
+    },
+    {
+      "rank": 9,
+      "name": "openclaw",
+      "owner": "openclaw/openclaw",
+      "stars": "311107",
+      "lang": "59170",
+      "desc": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "name": "awesome-python",
+      "owner": "vinta/awesome-python",
+      "stars": "287012",
+      "lang": "27381",
+      "desc": "Python"
+    },
+    {
+      "rank": 11,
+      "name": "datasharing",
+      "owner": "jtleek/datasharing",
+      "stars": "6711",
+      "lang": "243021",
+      "desc": "None"
+    },
+    {
+      "rank": 12,
+      "name": "Spoon-Knife",
+      "owner": "octocat/Spoon-Knife",
+      "stars": "13662",
+      "lang": "156638",
+      "desc": "HTML"
+    },
+    {
+      "rank": 13,
+      "name": "ProgrammingAssignment2",
+      "owner": "rdpeng/ProgrammingAssignment2",
+      "stars": "880",
+      "lang": "143876",
+      "desc": "R"
+    },
+    {
+      "rank": 14,
+      "name": "first-contributions",
+      "owner": "firstcontributions/first-contributions",
+      "stars": "52967",
+      "lang": "99466",
+      "desc": "None"
+    },
+    {
+      "rank": 15,
+      "name": "css-exercises",
+      "owner": "TheOdinProject/css-exercises",
+      "stars": "2597",
+      "lang": "89301",
+      "desc": "HTML"
+    },
+    {
+      "rank": 16,
+      "name": "SmartThingsPublic",
+      "owner": "SmartThingsCommunity/SmartThingsPublic",
+      "stars": "2634",
+      "lang": "87831",
+      "desc": "Groovy"
+    },
+    {
+      "rank": 17,
+      "name": "Complete-Python-3-Bootcamp",
+      "owner": "Pierian-Data/Complete-Python-3-Bootcamp",
+      "stars": "29458",
+      "lang": "87501",
+      "desc": "Jupyter Notebook"
+    },
+    {
+      "rank": 18,
+      "name": "gitignore",
+      "owner": "github/gitignore",
+      "stars": "172968",
+      "lang": "82772",
+      "desc": "None"
+    },
+    {
+      "rank": 19,
+      "name": "coding-interview-university",
+      "owner": "jwasham/coding-interview-university",
+      "stars": "337794",
+      "lang": "81624",
+      "desc": "None"
+    },
+    {
+      "rank": 20,
+      "name": "bootstrap",
+      "owner": "twbs/bootstrap",
+      "stars": "174065",
+      "lang": "79055",
+      "desc": "MDX"
+    },
+    {
+      "rank": 21,
+      "name": "VVVVVV",
+      "owner": "TerryCavanagh/VVVVVV",
+      "stars": "7929",
+      "lang": "593",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 22,
+      "name": "open-source-flash",
+      "owner": "open-source-flash/open-source-flash",
+      "stars": "7320",
+      "lang": "112",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 23,
+      "name": "Starling-Framework",
+      "owner": "Gamua/Starling-Framework",
+      "stars": "3028",
+      "lang": "816",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 24,
+      "name": "webcamjs",
+      "owner": "jhuckaby/webcamjs",
+      "stars": "2509",
+      "lang": "1108",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 25,
+      "name": "as3corelib",
+      "owner": "mikechambers/as3corelib",
+      "stars": "1499",
+      "lang": "449",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 26,
+      "name": "mapgen2",
+      "owner": "amitp/mapgen2",
+      "stars": "1362",
+      "lang": "212",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 27,
+      "name": "scratch-flash",
+      "owner": "scratchfoundation/scratch-flash",
+      "stars": "1355",
+      "lang": "517",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 28,
+      "name": "flixel",
+      "owner": "AdamAtomic/flixel",
+      "stars": "1139",
+      "lang": "195",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 29,
+      "name": "as3-signals",
+      "owner": "robertpenner/as3-signals",
+      "stars": "1062",
+      "lang": "200",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 30,
+      "name": "bfxr",
+      "owner": "increpare/bfxr",
+      "stars": "1023",
+      "lang": "91",
+      "desc": "ActionScript"
+    },
+    {
+      "rank": 31,
+      "name": "linux",
+      "owner": "torvalds/linux",
+      "stars": "222595",
+      "lang": "60965",
+      "desc": "C"
+    },
+    {
+      "rank": 32,
+      "name": "scrcpy",
+      "owner": "Genymobile/scrcpy",
+      "stars": "136948",
+      "lang": "12758",
+      "desc": "C"
+    },
+    {
+      "rank": 33,
+      "name": "netdata",
+      "owner": "netdata/netdata",
+      "stars": "78056",
+      "lang": "6378",
+      "desc": "C"
+    },
+    {
+      "rank": 34,
+      "name": "Ventoy",
+      "owner": "ventoy/Ventoy",
+      "stars": "75041",
+      "lang": "4707",
+      "desc": "C"
+    },
+    {
+      "rank": 35,
+      "name": "redis",
+      "owner": "redis/redis",
+      "stars": "73382",
+      "lang": "24543",
+      "desc": "C"
+    },
+    {
+      "rank": 36,
+      "name": "obs-studio",
+      "owner": "obsproject/obs-studio",
+      "stars": "70911",
+      "lang": "9073",
+      "desc": "C"
+    },
+    {
+      "rank": 37,
+      "name": "git",
+      "owner": "git/git",
+      "stars": "59661",
+      "lang": "27646",
+      "desc": "C"
+    },
+    {
+      "rank": 38,
+      "name": "FFmpeg",
+      "owner": "FFmpeg/FFmpeg",
+      "stars": "57879",
+      "lang": "13559",
+      "desc": "C"
+    },
+    {
+      "rank": 39,
+      "name": "tmux",
+      "owner": "tmux/tmux",
+      "stars": "42972",
+      "lang": "2477",
+      "desc": "C"
+    },
+    {
+      "rank": 40,
+      "name": "curl",
+      "owner": "curl/curl",
+      "stars": "41088",
+      "lang": "7101",
+      "desc": "C"
+    },
+    {
+      "rank": 41,
+      "name": "PowerToys",
+      "owner": "microsoft/PowerToys",
+      "stars": "130472",
+      "lang": "7774",
+      "desc": "C#"
+    },
+    {
+      "rank": 42,
+      "name": "v2rayN",
+      "owner": "2dust/v2rayN",
+      "stars": "98694",
+      "lang": "14298",
+      "desc": "C#"
+    },
+    {
+      "rank": 43,
+      "name": "shadowsocks-windows",
+      "owner": "shadowsocks/shadowsocks-windows",
+      "stars": "59281",
+      "lang": "16294",
+      "desc": "C#"
+    },
+    {
+      "rank": 44,
+      "name": "PowerShell",
+      "owner": "PowerShell/PowerShell",
+      "stars": "51855",
+      "lang": "8216",
+      "desc": "C#"
+    },
+    {
+      "rank": 45,
+      "name": "jellyfin",
+      "owner": "jellyfin/jellyfin",
+      "stars": "49300",
+      "lang": "4524",
+      "desc": "C#"
+    },
+    {
+      "rank": 46,
+      "name": "Files",
+      "owner": "files-community/Files",
+      "stars": "42395",
+      "lang": "2632",
+      "desc": "C#"
+    },
+    {
+      "rank": 47,
+      "name": "aspnetcore",
+      "owner": "dotnet/aspnetcore",
+      "stars": "37775",
+      "lang": "10600",
+      "desc": "C#"
+    },
+    {
+      "rank": 48,
+      "name": "RevokeMsgPatcher",
+      "owner": "huiyadanli/RevokeMsgPatcher",
+      "stars": "37133",
+      "lang": "3948",
+      "desc": "C#"
+    },
+    {
+      "rank": 49,
+      "name": "ShareX",
+      "owner": "ShareX/ShareX",
+      "stars": "35860",
+      "lang": "3624",
+      "desc": "C#"
+    },
+    {
+      "rank": 50,
+      "name": "DevToys",
+      "owner": "DevToys-app/DevToys",
+      "stars": "31083",
+      "lang": "1713",
+      "desc": "C#"
+    },
+    {
+      "rank": 51,
+      "name": "tensorflow",
+      "owner": "tensorflow/tensorflow",
+      "stars": "194125",
+      "lang": "75248",
+      "desc": "C++"
+    },
+    {
+      "rank": 52,
+      "name": "react-native",
+      "owner": "facebook/react-native",
+      "stars": "125573",
+      "lang": "25131",
+      "desc": "C++"
+    },
+    {
+      "rank": 53,
+      "name": "electron",
+      "owner": "electron/electron",
+      "stars": "120470",
+      "lang": "17045",
+      "desc": "C++"
+    },
+    {
+      "rank": 54,
+      "name": "godot",
+      "owner": "godotengine/godot",
+      "stars": "107796",
+      "lang": "24633",
+      "desc": "C++"
+    },
+    {
+      "rank": 55,
+      "name": "terminal",
+      "owner": "microsoft/terminal",
+      "stars": "102184",
+      "lang": "9130",
+      "desc": "C++"
+    },
+    {
+      "rank": 56,
+      "name": "llama.cpp",
+      "owner": "ggml-org/llama.cpp",
+      "stars": "97849",
+      "lang": "15478",
+      "desc": "C++"
+    },
+    {
+      "rank": 57,
+      "name": "bitcoin",
+      "owner": "bitcoin/bitcoin",
+      "stars": "88470",
+      "lang": "38825",
+      "desc": "C++"
+    },
+    {
+      "rank": 58,
+      "name": "opencv",
+      "owner": "opencv/opencv",
+      "stars": "86579",
+      "lang": "56553",
+      "desc": "C++"
+    },
+    {
+      "rank": 59,
+      "name": "gpt4all",
+      "owner": "nomic-ai/gpt4all",
+      "stars": "77225",
+      "lang": "8330",
+      "desc": "C++"
+    },
+    {
+      "rank": 60,
+      "name": "tesseract",
+      "owner": "tesseract-ocr/tesseract",
+      "stars": "72888",
+      "lang": "10544",
+      "desc": "C++"
+    },
+    {
+      "rank": 61,
+      "name": "FiraCode",
+      "owner": "tonsky/FiraCode",
+      "stars": "81285",
+      "lang": "3182",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 62,
+      "name": "metabase",
+      "owner": "metabase/metabase",
+      "stars": "46396",
+      "lang": "6302",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 63,
+      "name": "penpot",
+      "owner": "penpot/penpot",
+      "stars": "44817",
+      "lang": "2588",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 64,
+      "name": "logseq",
+      "owner": "logseq/logseq",
+      "stars": "41495",
+      "lang": "2495",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 65,
+      "name": "LightTable",
+      "owner": "LightTable/LightTable",
+      "stars": "11705",
+      "lang": "917",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 66,
+      "name": "clojurescript",
+      "owner": "clojure/clojurescript",
+      "stars": "9385",
+      "lang": "789",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 67,
+      "name": "jepsen",
+      "owner": "jepsen-io/jepsen",
+      "stars": "7328",
+      "lang": "743",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 68,
+      "name": "leiningen",
+      "owner": "technomancy/leiningen",
+      "stars": "7310",
+      "lang": "1581",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 69,
+      "name": "om",
+      "owner": "omcljs/om",
+      "stars": "6632",
+      "lang": "354",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 70,
+      "name": "athens",
+      "owner": "athensresearch/athens",
+      "stars": "6314",
+      "lang": "399",
+      "desc": "Clojure"
+    },
+    {
+      "rank": 71,
+      "name": "SwitchyOmega",
+      "owner": "FelisCatus/SwitchyOmega",
+      "stars": "22512",
+      "lang": "3573",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 72,
+      "name": "mojs",
+      "owner": "mojs/mojs",
+      "stars": "18680",
+      "lang": "890",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 73,
+      "name": "coffeescript",
+      "owner": "jashkenas/coffeescript",
+      "stars": "16592",
+      "lang": "1980",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 74,
+      "name": "zxcvbn",
+      "owner": "dropbox/zxcvbn",
+      "stars": "15896",
+      "lang": "1003",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 75,
+      "name": "dynamics.js",
+      "owner": "michaelvillar/dynamics.js",
+      "stars": "7575",
+      "lang": "411",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 76,
+      "name": "morris.js",
+      "owner": "morrisjs/morris.js",
+      "stars": "6889",
+      "lang": "1203",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 77,
+      "name": "At.js",
+      "owner": "ichord/At.js",
+      "stars": "5267",
+      "lang": "659",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 78,
+      "name": "node-xml2js",
+      "owner": "Leonidas-from-XIV/node-xml2js",
+      "stars": "4972",
+      "lang": "611",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 79,
+      "name": "aglio",
+      "owner": "danielgtaylor/aglio",
+      "stars": "4755",
+      "lang": "477",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 80,
+      "name": "vibrant.js",
+      "owner": "jariz/vibrant.js",
+      "stars": "4603",
+      "lang": "229",
+      "desc": "CoffeeScript"
+    },
+    {
+      "rank": 81,
+      "name": "animate.css",
+      "owner": "animate-css/animate.css",
+      "stars": "82632",
+      "lang": "16083",
+      "desc": "CSS"
+    },
+    {
+      "rank": 82,
+      "name": "nerd-fonts",
+      "owner": "ryanoasis/nerd-fonts",
+      "stars": "61988",
+      "lang": "3869",
+      "desc": "CSS"
+    },
+    {
+      "rank": 83,
+      "name": "normalize.css",
+      "owner": "necolas/normalize.css",
+      "stars": "53766",
+      "lang": "10467",
+      "desc": "CSS"
+    },
+    {
+      "rank": 84,
+      "name": "bulma",
+      "owner": "jgthms/bulma",
+      "stars": "50062",
+      "lang": "3904",
+      "desc": "CSS"
+    },
+    {
+      "rank": 85,
+      "name": "AdminLTE",
+      "owner": "ColorlibHQ/AdminLTE",
+      "stars": "45319",
+      "lang": "18270",
+      "desc": "CSS"
+    },
+    {
+      "rank": 86,
+      "name": "CppCoreGuidelines",
+      "owner": "isocpp/CppCoreGuidelines",
+      "stars": "44834",
+      "lang": "5545",
+      "desc": "CSS"
+    },
+    {
+      "rank": 87,
+      "name": "50projects50days",
+      "owner": "bradtraversy/50projects50days",
+      "stars": "40484",
+      "lang": "9775",
+      "desc": "CSS"
+    },
+    {
+      "rank": 88,
+      "name": "freecodecamp.cn",
+      "owner": "FreeCodeCampChina/freecodecamp.cn",
+      "stars": "37633",
+      "lang": "1411",
+      "desc": "CSS"
+    },
+    {
+      "rank": 89,
+      "name": "awesome-english-ebooks",
+      "owner": "hehonghui/awesome-english-ebooks",
+      "stars": "29545",
+      "lang": "2397",
+      "desc": "CSS"
+    },
+    {
+      "rank": 90,
+      "name": "hangzhou_house_knowledge",
+      "owner": "houshanren/hangzhou_house_knowledge",
+      "stars": "27138",
+      "lang": "5243",
+      "desc": "CSS"
+    },
+    {
+      "rank": 91,
+      "name": "flutter",
+      "owner": "flutter/flutter",
+      "stars": "175550",
+      "lang": "30123",
+      "desc": "Dart"
+    },
+    {
+      "rank": 92,
+      "name": "localsend",
+      "owner": "localsend/localsend",
+      "stars": "76437",
+      "lang": "4055",
+      "desc": "Dart"
+    },
+    {
+      "rank": 93,
+      "name": "AppFlowy",
+      "owner": "AppFlowy-IO/AppFlowy",
+      "stars": "68580",
+      "lang": "4949",
+      "desc": "Dart"
+    },
+    {
+      "rank": 94,
+      "name": "awesome-flutter",
+      "owner": "Solido/awesome-flutter",
+      "stars": "59264",
+      "lang": "6868",
+      "desc": "Dart"
+    },
+    {
+      "rank": 95,
+      "name": "spotube",
+      "owner": "KRTirtho/spotube",
+      "stars": "44935",
+      "lang": "2008",
+      "desc": "Dart"
+    },
+    {
+      "rank": 96,
+      "name": "FlClash",
+      "owner": "chen08209/FlClash",
+      "stars": "33317",
+      "lang": "2025",
+      "desc": "Dart"
+    },
+    {
+      "rank": 97,
+      "name": "hiddify-app",
+      "owner": "hiddify/hiddify-app",
+      "stars": "27221",
+      "lang": "2341",
+      "desc": "Dart"
+    },
+    {
+      "rank": 98,
+      "name": "revanced-manager",
+      "owner": "ReVanced/revanced-manager",
+      "stars": "26296",
+      "lang": "1041",
+      "desc": "Dart"
+    },
+    {
+      "rank": 99,
+      "name": "ente",
+      "owner": "ente-io/ente",
+      "stars": "25180",
+      "lang": "1481",
+      "desc": "Dart"
+    },
+    {
+      "rank": 100,
+      "name": "flutter-go",
+      "owner": "alibaba/flutter-go",
+      "stars": "23727",
+      "lang": "3791",
+      "desc": "Dart"
+    }
+  ],
+  "trending": [
+    {
+      "rank": 1,
+      "fullName": "agency-agents",
+      "desc": "AI 代理集合，涵盖多领域专家角色",
+      "lang": "Python",
+      "starsToday": 5745
+    },
+    {
+      "rank": 2,
+      "fullName": "microsoft/BitNet",
+      "desc": "1 位量化 LLM 官方推理框架",
+      "lang": "C++",
+      "starsToday": 2227
+    },
+    {
+      "rank": 3,
+      "fullName": "obra/superpowers",
+      "desc": "具备代理能力的技能框架",
+      "lang": "TypeScript",
+      "starsToday": 2106
+    },
+    {
+      "rank": 4,
+      "fullName": "lightpanda-io/browser",
+      "desc": "专为 AI 设计的轻量无头浏览器",
+      "lang": "Go",
+      "starsToday": 2093
+    },
+    {
+      "rank": 5,
+      "fullName": "promptfoo/promptfoo",
+      "desc": "测试提示词、Agent 与 RAG 的系统",
+      "lang": "TypeScript",
+      "starsToday": 1668
+    },
+    {
+      "rank": 6,
+      "fullName": "alibaba/page-agent",
+      "desc": "基于自然语言的网页界面控制代理",
+      "lang": "TypeScript",
+      "starsToday": 1468
+    },
+    {
+      "rank": 7,
+      "fullName": "AstrBotDevs/AstrBot",
+      "desc": "集成多平台 IM 的 AI 聊天机器人框架",
+      "lang": "Python",
+      "starsToday": 1128
+    },
+    {
+      "rank": 8,
+      "fullName": "langflow-ai/openrag",
+      "desc": "一体化 RAG 平台",
+      "lang": "Python",
+      "starsToday": 905
+    },
+    {
+      "rank": 9,
+      "fullName": "public-apis/public-apis",
+      "desc": "免费公共 API 集合",
+      "lang": "Python",
+      "starsToday": 892
+    },
+    {
+      "rank": 10,
+      "fullName": "anthropics/claude-plugins",
+      "desc": "Claude 代码插件目录",
+      "lang": "TypeScript",
+      "starsToday": 654
+    }
+  ]
+}

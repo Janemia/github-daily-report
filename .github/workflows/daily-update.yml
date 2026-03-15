@@ -1,0 +1,43 @@
+name: Daily GitHub Data Update
+
+on:
+  schedule:
+    # 每天 9:00 (Asia/Shanghai = UTC+8)
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch GitHub data
+        run: |
+          cd scripts
+          node fetch-data.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add public/data/latest.json
+          git diff --staged --quiet || git commit -m "chore: update daily GitHub data $(date +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Vercel deployment
+        run: |
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
+        if: success()
